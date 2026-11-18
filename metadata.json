@@ -1,0 +1,6 @@
+{
+  "name": "ISB MBA Workload Planner",
+  "description": "A high-fidelity academic workspace designed specifically for ISB MBA students to manage courses, exams (midterms/endterms), upload lecture PPTs, auto-bifurcate key exam topics using Gemini, and plan study tracks using an interactive drag-and-drop calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
